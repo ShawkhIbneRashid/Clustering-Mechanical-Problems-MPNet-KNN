@@ -1,0 +1,10 @@
+pandas==1.3.4
+matplotlib==3.4.1
+numpy==1.19.5
+re==2.2.1
+string 
+nltk==3.6.5
+textblob==0.17.1
+sentence_transformers==2.1.0
+scipy==1.6.2
+sklearn==0.24.2
